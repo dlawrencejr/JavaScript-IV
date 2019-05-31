@@ -97,12 +97,30 @@ class Person{
   
   console.log(bj.name);
   console.log(bj.location);
-  console.log
-  console.log(fred.demo("Math"));
-  console.log(fred.grade(jim.name,'Math'));
+  console.log(bj.age);
+  console.log(bj.speak);
+  console.log(bj.specialty);
+  console.log(bj.favLanguage);
+  console.log(bj.catchPhrase);
+  console.log(bj.demo("HTML"));
+  console.log(bj.grade(jim.name,'Applied JavaScript'));
+  console.log(jim.name);
+  console.log(jim.location);
+  console.log(jim.age);
+  console.log(jim.speak());
+  console.log(jim.previousBackground);
+  console.log(jim.className);
+  console.log(jim.favSubjects);
   console.log(jim.listsSubjects());
+  console.log(jim.PRAssignment('CSS'));
+  console.log(jim.sprintChallenge('Applied JavaScript'));
+  console.log(thomas.name);
+  console.log(thomas.location);
+  console.log(thomas.age);
+  console.log(thomas.speak());
   console.log(thomas.gradClassName);
+  console.log(thomas.favInstructor);
   console.log(thomas.standUp('Pair-programming'));
   console.log(thomas.debugsCode(jim.name,'JavaScript'));
-  console.log(jim.speak());
+  
   
